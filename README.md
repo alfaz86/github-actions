@@ -12,3 +12,7 @@
    ```python
    class Hero:
    ```
+   Misal, nama classnya `Hero`, maka penulisannya : 
+   ```python
+   my_hero = Hero()
+   ```
