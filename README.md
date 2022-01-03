@@ -51,8 +51,8 @@
 
 9. self digunakan untuk menampung dirinya sendiri, maksudnya self ini adalah argumen pertama dari setiap metode merujuk pada instance class saat ini.
 
-10.`__init__` Metode menginisialisasi sebuah instance dari class.
+10. `__init__` Metode menginisialisasi sebuah instance dari class.
 
-11.Karena konsep Inheritance diturunkan, maka semua kode yang telah dibuat sebelumnya (didalam class) dapat dipakai kembali di class lain sebagai class turunannya. Dengan begitu code yang sama tidak perlu dibuat berulang kali, dan alhasil bisa mencegah duplikasi code.
+11. Karena konsep Inheritance diturunkan, maka semua kode yang telah dibuat sebelumnya (didalam class) dapat dipakai kembali di class lain sebagai class turunannya. Dengan begitu code yang sama tidak perlu dibuat berulang kali, dan alhasil bisa mencegah duplikasi code.
 
-12.Tentu saja bisa.
+12. Tentu saja bisa.
