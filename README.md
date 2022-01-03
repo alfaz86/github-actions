@@ -9,3 +9,6 @@
 
 2. learn any about git action\
    paragraf.
+
+3. lear about markdown\
+   simple text
