@@ -8,7 +8,7 @@
    paragraf.
 
 3. lear about markdown\
-   simple text
+   simple text for `class`
    ```python
    class Hero:
    ```
